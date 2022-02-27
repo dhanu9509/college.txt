@@ -1,0 +1,2 @@
+students:2500
+techers:50
